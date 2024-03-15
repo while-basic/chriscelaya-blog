@@ -3,7 +3,7 @@ const siteMetadata = {
   title: 'Christopher Celaya Blog',
   author: 'Christopher Celaya',
   headerTitle: 'Blog',
-  description: 'A blog created with Next.js and Tailwind.css',
+  description: 'A place for my thoughts',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://chriscelaya-blog.vercel.app/',
